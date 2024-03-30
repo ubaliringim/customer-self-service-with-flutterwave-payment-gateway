@@ -1,4 +1,4 @@
-Hello Guys 👋, 
+Hello Guys 👋, Hi
 
 I hope you enjoyed reading and learning from my previous article series where I walked you through how I built a real-time Forbes website with HTML, CSS, and Vanilla JavaScript, you can check it out  [HERE](https://unclebigbay.hashnode.dev/walking-you-through-how-i-build-my-forbes-website-project) if you missed it.
 
